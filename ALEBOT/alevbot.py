@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 #ALEBOT
+#Jangan hapus mid creator jika menghargai kami:)
+#tambahkan saja mid kalian
+#makasih
 
 import ALEV
 from ALEV.lib.curve.ttypes import *

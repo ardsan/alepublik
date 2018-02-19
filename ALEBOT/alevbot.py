@@ -373,7 +373,7 @@ protectMessage ="""
 """
 
 
-KAC=[cl,ki,kk,kc,kr]
+KAC=[ale]
 mid = ale.getProfile().mid
 Amid = ale.getProfile().mid
 Bmid = ale.getProfile().mid

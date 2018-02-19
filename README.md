@@ -1,11 +1,10 @@
 # alepublik
 BOT PUBLIK ADA PROTECTNYA JUGA(tapi pasti lemah karna cuma 1 akun:v)
 
-BISA DI SET JADI SELF BOT
 
 Tutor di termux:
 
-Di Termux :
+
 
 Ketik -> pkg update
 
